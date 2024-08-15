@@ -13,3 +13,6 @@ Conv1: 9x9 크기의 64개 필터, ReLU 활성화 함수 사용.
 Conv2: 1x1 크기의 32개 필터, ReLU 활성화 함수 사용.
 Conv3: 5x5 크기의 1개 필터, 고해상도 출력을 재구성.
 이 모델의 아키텍처는 단순하지만, 저해상도와 고해상도 이미지 간의 매핑을 학습하는 데 효과적입니다.
+
+## 결과
+![image](https://github.com/user-attachments/assets/efeaa7ec-05e9-4056-8388-c436f8854cde)
